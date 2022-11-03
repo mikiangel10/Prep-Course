@@ -1,0 +1,10 @@
+Variables:
+Son espacios de memoria donde el programa guarda datos que pueden ser utilizados despues o pueden ser modificados
+Strings: Son un tipo de datos en los que se pueden almacenar caracteres.
+Funciones:
+Son trozos de codigo que se pueden ejecutar desde una o varias otras partes del codigo. 
+Pueden requerir que se ingresen datos para que la funcion los use. Se llaman argumentos.
+Pueden devolver cierto dato cuando se terminan de ejecutar. En ese caso tendra una sentencia "return" acompañada de una expresion, cuyo valor será el que retorne la función.
+Declaraciones: Son sentencias en las que se le da nombre a una variable. Puede contener tambien una expresion cuyo valor sea el que prende la variable.
+Valores Booleanos: Es un tipo de datos en el que solo se admiten dos valores (true o false). Es el dato que mas se asemeja a la base binaria de la computación.
+
