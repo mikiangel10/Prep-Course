@@ -1,0 +1,13 @@
+Bucle for:
+Es un tipo de bucle que se usa en la programacion para repetir cierto algoritmo una cantidad de veces conocida con anticipación.
+Consta de 3 expresiones:
+La primera es la inicializacion de una variable, se le da un nombre y un valor. Generalmente se usa "i" para el nombre y el valor suele ser 0 o 1, pero se puede modificar según las necesidades del programador.
+La segunda es la condición de verdad, que sería una expresión que incluya la variable y que mientras su resultado sea true el bucle se seguirá ejecutando. Por ejemplo, mientras i sea menor a 5.
+La Ultima es el paso. Se establece como varia la variable que se usa en la condición de verdad. Generalmente se usa i++, para incrementar la variable i en 1 cada vez que se ejecuta el bucle. Tambien puede variar segun las necesidades del programa. Por ejemplo para iterar sobre numeros pares se usaría i+=2.
+
+Comparadores lógicos:
+&& Este comparador (AND) evalua que las dos expresiones entre las que se encuentra sean verdaderas. Si la primera expresion es falsa directamente devuelve false sin evaluar la segunda.
+|| Este (OR) en cambio evalua que alguna de las dos expresiones sea verdadera. Si la primera es verdadera, directamnte devuelve true sin evaluar la segunda.
+! Este operador se llama NOT y cambia el valor de una expresion booleana. O sea que si una expresion es true, con este operador delante devuelve false, y viceversa.
+ 
+
